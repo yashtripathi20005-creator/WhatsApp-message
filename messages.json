@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "phone_number": "+1234567890",
+    "message": "Good morning! This is an automated WhatsApp message.",
+    "scheduled_time": "09:00",
+    "scheduled_day": "Monday",
+    "active": true,
+    "sent": false,
+    "last_sent": null
+  },
+  {
+    "id": 2,
+    "phone_number": "+1234567890",
+    "message": "Don't forget our meeting at 3 PM today!",
+    "scheduled_time": "14:00",
+    "scheduled_day": "Tuesday",
+    "active": true,
+    "sent": false,
+    "last_sent": null
+  }
+]
